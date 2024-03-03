@@ -1,0 +1,28 @@
+{
+  "name": "bubble-sort-karimoth",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karimoth/bubble-sort-karimoth.git"
+  },
+  "keywords": [
+    "bubble-sort-karimoth"
+  ],
+  "author": "karimoth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karimoth/bubble-sort-karimoth/issues"
+  },
+  "homepage": "https://github.com/karimoth/bubble-sort-karimoth#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0",
+    "uuid": "^9.0.1",
+    "random-numbers-karimoth": "1.0.1",
+    "tictactoe-karimoth": "1.0.1"
+  }
+}
